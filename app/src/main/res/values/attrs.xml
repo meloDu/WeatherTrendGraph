@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeatherLineView">
+        <!-- 点的宽度-->
+        <attr name="pointWidth" format="dimension"></attr>
+        <!-- 点的颜色 -->
+        <attr name="pointColor"  format="reference"></attr>
+        <!-- 线的宽度 -->
+        <attr name="lineWidth" format="dimension"></attr>
+        <!-- 线的颜色 -->
+        <attr name="lineColor"  format="reference"></attr>
+
+   </declare-styleable>
+</resources>
